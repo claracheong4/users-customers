@@ -1,0 +1,22 @@
+insert into Customers (id, name, dob, updated_at) values (1, 'Grata Massey', '2004-02-13', '2021-01-15 17:34:20');
+insert into Customers (id, name, dob, updated_at) values (2, 'Emmerich Clowes', '1982-04-24', '2021-02-13 21:05:03');
+insert into Customers (id, name, dob, updated_at) values (3, 'Katharine Mila', '1997-03-06', '2020-05-29 08:05:06');
+insert into Customers (id, name, dob, updated_at) values (4, 'Danya Adey', '1992-10-09', '2020-08-19 11:50:02');
+insert into Customers (id, name, dob, updated_at) values (5, 'Amerigo Ramsdale', '1984-11-15', '2021-03-11 17:28:16');
+insert into Customers (id, name, dob, updated_at) values (6, 'Dyane Edgeworth', '1981-08-20', '2020-08-04 13:01:55');
+insert into Customers (id, name, dob, updated_at) values (7, 'Ava Sweatman', '1997-07-24', '2020-09-06 01:49:19');
+insert into Customers (id, name, dob, updated_at) values (8, 'August Lile', '2003-06-04', '2020-07-30 08:47:34');
+insert into Customers (id, name, dob, updated_at) values (9, 'Ogdan Watchorn', '1984-04-30', '2020-10-01 15:38:39');
+insert into Customers (id, name, dob, updated_at) values (10, 'Violante Knox', '2004-12-09', '2021-01-13 16:06:03');
+insert into Customers (id, name, dob, updated_at) values (11, 'Van Ladbury', '1999-09-11', '2021-03-19 20:27:17');
+insert into Customers (id, name, dob, updated_at) values (12, 'Alyson Balsdone', '1993-12-02', '2020-12-23 04:27:13');
+insert into Customers (id, name, dob, updated_at) values (13, 'Sonny Jacobsohn', '1980-05-11', '2020-05-18 03:48:22');
+insert into Customers (id, name, dob, updated_at) values (14, 'Rollins Selcraig', '1997-11-01', '2020-10-18 10:20:52');
+insert into Customers (id, name, dob, updated_at) values (15, 'Udale Scole', '1996-12-26', '2020-05-20 06:06:31');
+insert into Customers (id, name, dob, updated_at) values (16, 'Elena Phette', '1981-05-29', '2020-11-14 21:51:14');
+insert into Customers (id, name, dob, updated_at) values (17, 'Briggs Ortell', '1991-08-13', '2021-01-17 06:37:11');
+insert into Customers (id, name, dob, updated_at) values (18, 'Christa Thatcham', '2003-11-08', '2020-12-12 02:02:46');
+insert into Customers (id, name, dob, updated_at) values (19, 'Dixie Saxon', '1991-02-02', '2020-07-29 01:16:27');
+insert into Customers (id, name, dob, updated_at) values (20, 'Jennilee Gladbeck', '2000-03-12', '2021-01-12 16:51:16');
+
+insert into Users (id, secret) values (0, 'edbd1887e772e13c251f688a5f10c1ffbb67960d');
